@@ -1,2 +1,33 @@
-# healthcare-rag-copilot
-AI-powered Healthcare Report Analysis using Streamlit and RAG concepts for generating summaries, health insights, and recommendations from healthcare PDFs.
+# Healthcare RAG Copilot
+
+AI-powered healthcare report analysis system built using Streamlit.
+
+## Features
+
+* Upload Healthcare PDF
+* AI Report Summary
+* Health Score Generation
+* Recommendations
+* Download Report
+* Dashboard UI
+
+## Tech Stack
+
+* Python
+* Streamlit
+* PyPDF
+* RAG Concepts
+
+## Run Locally
+
+```bash
+pip install -r requirements.txt
+streamlit run app.py
+```
+
+## Future Scope
+
+* Full RAG Integration
+* Vector Database
+* Authentication
+* Cloud Deployment
